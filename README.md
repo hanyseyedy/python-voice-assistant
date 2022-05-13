@@ -1,5 +1,8 @@
 # python-voice-assistant
-this code can give your soung and type it in terminal Consol
+this code can take your voice and type it in terminal Console.
+after run code in terminal you should to speak. 
+
+`END_PHRASE` parameter is to end the system listening. you can insert your favorite Custom phrase. 
 
 # Installed packages
 if the code not working please follow the steps below:
